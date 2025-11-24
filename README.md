@@ -13,7 +13,6 @@
 - ffmpeg.exe (NOT Included) ((If I find time, I can throw together an auto installer for ease of use. 
 Until then, install it yourself or find me and ask for the file via USB :^)))
 
-##########################################################################################################################
 Install Python packages:
 --------------------------------------------------------------------------------------------------------------------------
 ## bash
