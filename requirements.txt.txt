@@ -1,5 +1,0 @@
-yt-dlp
-tk
-
-#FFMPEG is required as well
-#Downloads for that can be found at https://www.ffmpeg.org/download.html
