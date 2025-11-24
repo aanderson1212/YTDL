@@ -10,10 +10,9 @@
 ## Requirements
 - Python 3.10+
 - yt-dlp (Included)
-- ffmpeg.exe (NOT Included) ((If I find time, I can throw together an auto installer for ease of use. 
-Until then, install it yourself or find me and ask for the file via USB :^)))
+- ffmpeg.exe (**NOT** Included)
 
 Install Python packages:
 --------------------------------------------------------------------------------------------------------------------------
-## bash
+#bash
 pip install -r requirements.txt
